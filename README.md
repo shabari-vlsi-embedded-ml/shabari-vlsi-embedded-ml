@@ -7,20 +7,6 @@
 - **Data Science:** Python, NumPy, Pandas, Scikit-learn, Matplotlib, SQL
 - **Embedded:** C, MicroPython, ESP32, Arduino, Raspberry Pi, TinyML, real-time systems
 
-### Current Learning
-- Deep Learning (PyTorch/TensorFlow)
-- Edge ML / TinyML
-- AI for VLSI (chip optimization)
-
-### Featured Projects
-- [32-bit ALU with FPGA](32-bit-ALU-FPGA) – 150 MHz timing
-- [ESP32 TinyML Sensor](esp32-tinyml-sensor) – 90% accuracy, 12 ms latency
-- [ML for VLSI Simulation](vlsi-ds-simulation-ml) – 94% accuracy, 15% power savings
-
-### Internships
-- VLSI Design Intern (Chipedge/Maven Silicon) – UART RTL project
-- Embedded AI Intern (Innomatics/THIRANEX) – IoT + AI prototype
-
 ### Contact
 Let's connect if you're interested in VLSI, Embedded AI, Edge ML, or AI for chip design.
 

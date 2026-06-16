@@ -23,8 +23,9 @@
 
 ### Contact
 Let's connect if you're interested in VLSI, Embedded AI, Edge ML, or AI for chip design.
-📧 [your-email@email.com](your-email@email.com)
-🔗 [LinkedIn](your-linkedin-link)
+📧 Mail : shabariprojects12@gmail.com
+🔗 LinkedIn : www.linkedin.com/in/shabari-shanmugam-53570637b
+
 <!--
 **shabari-vlsi-embedded-ml/shabari-vlsi-embedded-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

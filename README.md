@@ -23,7 +23,9 @@
 
 ### Contact
 Let's connect if you're interested in VLSI, Embedded AI, Edge ML, or AI for chip design.
+
 📧 Mail : shabariprojects12@gmail.com
+
 🔗 LinkedIn : www.linkedin.com/in/shabari-shanmugam-53570637b
 
 <!--

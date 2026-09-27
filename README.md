@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Your Name
+# L S Shabari
 ## VLSI + Embedded AI + Data Science Student | 2nd Year ECE | Chennai, India
 
 ### Skills
